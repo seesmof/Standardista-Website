@@ -37,7 +37,7 @@ nav .logo {
   transition: all 0.5s ease-in-out;
 }
 nav .logo:hover {
-  color: var(--primary-color);
+  color: #328ad2;
 }
 nav .menu {
   display: flex;
