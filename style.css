@@ -35,7 +35,7 @@ nav .logo {
   transition: all 0.3s ease-in-out;
 }
 nav .logo:hover {
-  color: #226daa;
+  color: var(--primary-color);
 }
 nav .menu {
   display: flex;
@@ -78,7 +78,7 @@ header .hero {
 }
 .hero .main-heading {
   font-size: 2rem;
-  color: #5679e0;
+  color: var(--primary-color);
 }
 
 footer {
