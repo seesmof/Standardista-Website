@@ -88,7 +88,8 @@ header .hero {
 .hero .sub-heading {
   font-size: 1.2rem;
   font-weight: 500;
-  padding: 2rem 0;
+  padding-top: 0.5rem;
+  padding-bottom: 4rem;
 }
 
 /* FOOTER */
