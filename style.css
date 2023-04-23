@@ -79,6 +79,7 @@ header .hero {
 .hero .main-heading {
   font-size: 2rem;
   color: var(--primary-color);
+  font-weight: 900;
 }
 
 footer {
