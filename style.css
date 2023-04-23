@@ -23,3 +23,8 @@ nav .logo {
   font-size: 1.5rem;
   font-weight: bold;
 }
+
+footer {
+  width: 100%;
+  background: #cccccc;
+}
