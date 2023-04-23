@@ -67,6 +67,14 @@ header .blur {
   -ms-filter: blur(1px);
   z-index: -1;
 }
+header .hero {
+  padding: 2rem;
+  text-align: center;
+}
+.hero .main-heading {
+  font-size: 2rem;
+  color: #5679e0;
+}
 
 footer {
   width: 100%;
