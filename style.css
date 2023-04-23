@@ -45,6 +45,10 @@ nav .menu a:hover {
   transform: translateY(-0.2rem);
 }
 
+header {
+  background-image: url(./img/main-background.svg);
+}
+
 footer {
   width: 100%;
   background: #cccccc;
