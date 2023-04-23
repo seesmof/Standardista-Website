@@ -93,9 +93,11 @@ header .hero {
 }
 header .cards {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
+  color: inherit;
 }
 
 /* FOOTER */
