@@ -96,6 +96,7 @@ header .cards {
   gap: 1rem;
   justify-content: center;
   align-items: center;
+  padding-bottom: 2rem;
 }
 .cards a {
   text-decoration: none;
