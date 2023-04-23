@@ -8,4 +8,9 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-тфм
+nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background: #ffffffc0;
+}
