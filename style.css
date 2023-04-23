@@ -38,6 +38,9 @@ nav .menu a {
   color: inherit;
   transition: all 0.3s ease-in-out;
 }
+nav .menu a:hover {
+  transform: translateY(-0.2rem);
+}
 
 footer {
   width: 100%;
