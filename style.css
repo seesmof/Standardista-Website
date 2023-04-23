@@ -1,6 +1,6 @@
 :root {
   --primary-color: #226daa;
-  --secondary-color: #cccccc;
+  --secondary-color: #5488b2;
 }
 
 * {
@@ -78,7 +78,7 @@ header .hero {
 }
 .hero .main-heading {
   font-size: 2rem;
-  color: var(--primary-color);
+  color: var(--secondary-color);
   font-weight: 900;
 }
 
