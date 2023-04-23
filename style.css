@@ -87,7 +87,7 @@ header .hero {
 }
 .hero .sub-heading {
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 600;
   padding-top: 0.5rem;
   padding-bottom: 4rem;
 }
@@ -99,16 +99,20 @@ header .cards {
 }
 .cards a {
   text-decoration: none;
-  color: inherit;
   padding: 1rem 2rem;
   transition: all 0.3s ease-in-out;
-  font-weight: 400;
+  font-weight: 500;
 }
 .teach {
   background: #ccc;
+  color: var(--secondary-color);
 }
 .teach:hover {
   background: #a3a3a3;
+}
+.register {
+  background: var(--primary-color);
+  color: #eee;
 }
 
 /* FOOTER */
