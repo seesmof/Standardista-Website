@@ -120,6 +120,11 @@ header .cards {
   background: #184b75;
 }
 
+/* MAIN */
+#table {
+  background: var(--primary-color);
+}
+
 /* FOOTER */
 footer {
   width: 100%;
