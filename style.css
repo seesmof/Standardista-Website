@@ -11,6 +11,9 @@ body {
 nav {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem;
+
   width: 100%;
   background: #ffffffb0;
   position: sticky;
