@@ -149,6 +149,8 @@ header .cards {
 #table article table {
   background: #fff;
   color: #212121;
+  padding: 1rem;
+  align-self: center;
 }
 
 /* FOOTER */
