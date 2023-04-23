@@ -107,6 +107,9 @@ header .cards {
 .teach {
   background: #ccc;
 }
+.teach:hover {
+  background: #a3a3a3;
+}
 
 /* FOOTER */
 footer {
