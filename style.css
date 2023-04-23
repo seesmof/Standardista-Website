@@ -123,7 +123,7 @@ header .cards {
 /* MAIN */
 #table {
   background: var(--primary-color);
-  color: white;
+  color: #eee;
   text-align: center;
 }
 #table h2 {
@@ -136,7 +136,10 @@ header .cards {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
   padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
 }
 #table h3 {
   font-size: 1.4rem;
@@ -151,6 +154,7 @@ header .cards {
   color: #212121;
   padding: 1rem;
   align-self: center;
+  margin-top: 1rem;
 }
 
 /* FOOTER */
