@@ -80,6 +80,7 @@ header .hero {
   text-align: center;
 }
 .hero .main-heading {
+  padding-top: 6rem;
   font-size: 2rem;
   color: var(--secondary-color);
   font-weight: 900;
@@ -87,6 +88,7 @@ header .hero {
 .hero .sub-heading {
   font-size: 1.2rem;
   font-weight: 500;
+  padding: 2rem 0;
 }
 
 /* FOOTER */
