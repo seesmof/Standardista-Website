@@ -146,6 +146,10 @@ header .cards {
   text-align: left;
   padding: 0.5rem 0;
 }
+#table article table {
+  background: #fff;
+  color: #212121;
+}
 
 /* FOOTER */
 footer {
