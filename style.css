@@ -136,8 +136,15 @@ header .cards {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
-  z-index: 1;
+  padding: 1.5rem;
+}
+#table h3 {
+  font-size: 1.4rem;
+  text-align-last: left;
+}
+#table article p {
+  text-align: left;
+  padding: 0.5rem 0;
 }
 
 /* FOOTER */
