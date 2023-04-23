@@ -13,4 +13,5 @@ nav {
   flex-direction: row;
   width: 100%;
   background: #ffffffc0;
+  position: sticky;
 }
