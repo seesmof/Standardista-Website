@@ -16,8 +16,8 @@ nav {
   padding: 1.4rem;
 
   width: 100%;
-  /* background: rgba(255, 255, 255, 0.95); */
-  background: #71c48e;
+  background: rgba(255, 255, 255, 0.95);
+  /* background: #71c48e; */
   position: sticky;
   top: 0;
 }
@@ -28,6 +28,9 @@ nav .logo {
   text-decoration: none;
   color: inherit;
   transition: all 0.3s ease-in-out;
+}
+nav .logo:hover {
+  color: #226daa;
 }
 nav .menu {
   display: flex;
