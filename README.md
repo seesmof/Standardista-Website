@@ -1,5 +1,3 @@
-To create a professional README for this GitHub repository, we can follow the template provided in [Source 1](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/). Here's an example README for this repository:
-
 # Machine Learning Workshop
 
 ## Description
@@ -27,7 +25,7 @@ To install and run this code, follow these steps:
 
 To use this code, simply open `index.html` in your web browser. The website will display information about the Machine Learning Workshop, including ticket availability and a description of what will be covered.
 
-![Screenshot of website](./assets/images/screenshot.png)
+![Screenshot of website](/img/main-background.svg)
 
 ## Credits
 
