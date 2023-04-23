@@ -114,6 +114,9 @@ header .cards {
   background: var(--primary-color);
   color: #eee;
 }
+.register:hover {
+  background: #184b75;
+}
 
 /* FOOTER */
 footer {
