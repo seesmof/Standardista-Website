@@ -31,13 +31,6 @@ header .blur {
   -ms-filter: blur(4px);
   z-index: -1;
 }
-.register {
-  background: var(--primary-color);
-  color: #eee;
-}
-.register:hover {
-  background: #184b75;
-}
 
 /* MAIN */
 #table {
