@@ -15,9 +15,6 @@
 }
 
 /* NAVBAR */
-nav .logo:hover {
-  color: #328ad2;
-}
 nav .menu {
   display: flex;
   gap: 1rem;
