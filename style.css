@@ -14,11 +14,6 @@
   --secondary-color: #5293d4;
 }
 
-/* NAVBAR */
-nav .menu a:hover {
-  transform: translateY(-0.2rem);
-}
-
 /* HEADER */
 header {
   background-image: url(./img/main-background.svg);
