@@ -13,27 +13,14 @@ module.exports = {
     require("@tailwindcss/aspect-ratio"),
   ],
   daisyui: {
-    styled: false,
-    themes: false,
-    base: false,
-    utils: false,
+    styled: true,
+    themes: true,
+    base: true,
+    utils: true,
     logs: false,
     rtl: false,
     prefix: "",
     darkTheme: "dark",
     themes: false,
   },
-};
-module.exports = {
-  mode: "jit",
-  content: ["./*.{html,js}"],
-  theme: {
-    extend: {},
-  },
-  plugins: [
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/forms"),
-    require("@tailwindcss/line-clamp"),
-    require("@tailwindcss/aspect-ratio"),
-  ],
 };
