@@ -1,3 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --color-primary: #226daa;
+    --color-secondary: #5293d4;
+  }
+}
+
 /* TOP-LEVEL */
 :root {
   --primary-color: #226daa;
