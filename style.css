@@ -31,12 +31,6 @@ header .blur {
   -ms-filter: blur(4px);
   z-index: -1;
 }
-.hero .sub-heading {
-  font-size: 1.2rem;
-  font-weight: 600;
-  padding-top: 0.5rem;
-  padding-bottom: 4rem;
-}
 header .cards {
   display: flex;
   gap: 1rem;
