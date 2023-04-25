@@ -33,11 +33,6 @@ header .blur {
 }
 
 /* MAIN */
-#table {
-  background: var(--primary-color);
-  color: #fefefe;
-  text-align: center;
-}
 #table h2 {
   font-size: 1.5rem;
   padding: 2rem;
