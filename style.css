@@ -17,12 +17,6 @@
 /* HEADER */
 header {
   background-image: url(./img/main-background.svg);
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  z-index: 1;
 }
 header .blur {
   position: absolute;
