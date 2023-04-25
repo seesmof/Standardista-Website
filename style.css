@@ -44,13 +44,6 @@ header .cards {
   transition: all 0.3s ease-in-out;
   font-weight: 500;
 }
-.teach {
-  background: #ccc;
-  color: var(--secondary-color);
-}
-.teach:hover {
-  background: #a3a3a3;
-}
 .register {
   background: var(--primary-color);
   color: #eee;
