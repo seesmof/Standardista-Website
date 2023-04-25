@@ -35,14 +35,6 @@ header .blur {
 /* MAIN */
 #table article {
   background-image: url(./img/table-background.jpg);
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-  padding: 1.5rem;
-  display: flex;
-  flex-direction: column;
 }
 #table h3 {
   font-size: 1.4rem;
