@@ -15,10 +15,6 @@
 }
 
 /* NAVBAR */
-nav .menu {
-  display: flex;
-  gap: 1rem;
-}
 nav .menu a {
   text-decoration: none;
   color: inherit;
