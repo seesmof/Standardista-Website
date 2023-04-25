@@ -31,19 +31,6 @@ header .blur {
   -ms-filter: blur(4px);
   z-index: -1;
 }
-header .cards {
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 2rem;
-}
-.cards a {
-  text-decoration: none;
-  padding: 1rem 2rem;
-  transition: all 0.3s ease-in-out;
-  font-weight: 500;
-}
 .register {
   background: var(--primary-color);
   color: #eee;
