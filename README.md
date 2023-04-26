@@ -25,7 +25,7 @@ To install and run this code, follow these steps:
 
 To use this code, simply open `index.html` in your web browser. The website will display information about the Machine Learning Workshop, including ticket availability and a description of what will be covered.
 
-![Screenshot of website](/img/main-background.svg)
+![Desktop Screenshot](/img/showcase/msedge_56RtvCUEme.png)
 
 ## Credits
 
