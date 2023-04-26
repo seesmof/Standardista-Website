@@ -32,8 +32,8 @@ To use this code, simply open `index.html` in your web browser. The website will
 ---
 
 ![Mobile Screenshot](/img/showcase/msedge_9DmzSMHJiP.png)
-![Desktop Screenshot](/img/showcase/msedge_zoeoAAcz3J.png)
-![Desktop Screenshot](/img/showcase/msedge_9yQIYfneD3.png)
+![Mobile Screenshot](/img/showcase/msedge_zoeoAAcz3J.png)
+![Mobile Screenshot](/img/showcase/msedge_9yQIYfneD3.png)
 
 ## Credits
 
