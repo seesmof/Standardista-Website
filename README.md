@@ -29,7 +29,7 @@ To use this code, simply open `index.html` in your web browser. The website will
 
 ## Credits
 
-This code was written by [Your Name Here]. Special thanks to the Standardista School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too for hosting the workshop.
+This code was written by @seesmof. Special thanks to the Standardista School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too for hosting the workshop.
 
 ## License
 
