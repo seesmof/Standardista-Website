@@ -13,9 +13,9 @@ This repository contains the code for the Machine Learning Workshop hosted by th
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-- [](#)
+- [Standardista Machine Learning Workshop](#standardista-machine-learning-workshop)
   - [Description](#description-1)
-  - [Table of Contents (Optional)](#table-of-contents-optional)
+  - [Table of Contents](#table-of-contents-1)
   - [Installation](#installation-1)
   - [Usage](#usage-1)
   - [Credits](#credits-1)
@@ -48,18 +48,13 @@ This code is licensed under the MIT License. See [LICENSE](./LICENSE) for detail
 
 ---
 
-#
+# Standardista Machine Learning Workshop
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is a repository for a very simple web page about some machine learning workshop. It was made to practice responsive web development as well as to improve my TailwindCSS knowledge
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
